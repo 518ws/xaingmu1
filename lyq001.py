@@ -32,6 +32,7 @@
 # print(len (a)+len (b))
 
 
+
 a=input ("请输入：")
 b=input ("请输入：")
 print(len (a)+len (b))
